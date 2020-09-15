@@ -1,0 +1,4 @@
+name = "Workflow"
+uuid = "b99b3fab-f938-4b75-8026-3b8da3ff488d"
+authors = ["Graham Smith <grahamas@gmail.com>"]
+version = "0.1.0"
