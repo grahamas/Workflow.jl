@@ -1,5 +1,5 @@
 module Workflow
 
-greet() = print("Hello World!")
+using GitCommand
 
 end # module
